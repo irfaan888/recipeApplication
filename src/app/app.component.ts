@@ -7,8 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  myFeature='recipe';
-  feature(loadedFeature){
-   this.myFeature=loadedFeature;
-  }
+  
 }
